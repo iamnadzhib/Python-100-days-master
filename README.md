@@ -518,4 +518,5 @@ SMS-сервис-вызов SMS-сервисный шлюз
 <img src="./img/py.png" alt="Bot logo" width="200" height="200">
 
 </div>#   P y t h o n - 1 0 0 - d a y s - m a s t e r  
+ #   P y t h o n - 1 0 0 - d a y s - m a s t e r  
  
